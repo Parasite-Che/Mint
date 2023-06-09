@@ -1,0 +1,2 @@
+[mint_host]
+ansible2 ansible_host=192.168.56.102 ansible_port=23 ansible_user=ilya_host ansible_sudo_pass=7102575+ ansible_ssh_private_key_file=/home/ilya/.ssh/id_rsa
